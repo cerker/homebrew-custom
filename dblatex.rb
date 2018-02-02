@@ -3,7 +3,7 @@ require 'formula'
 class Dblatex < Formula
   url 'http://downloads.sourceforge.net/project/dblatex/dblatex/dblatex-0.3/dblatex-0.3.tar.bz2'
   homepage 'http://dblatex.sourceforge.net'
-  md5 '7de6bf72b8b2934169ce0ec911e966ed'
+  sha256 '7de6bf72b8b2934169ce0ec911e966ed'
 
   env :userpaths
 
